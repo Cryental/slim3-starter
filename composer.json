@@ -1,0 +1,30 @@
+{
+  "require": {
+    "twig/twig": "v2.10.0",
+    "slim/slim": "3.12.1",
+    "slim/twig-view": "2.5.0",
+    "psr/simple-cache": "1.0.1",
+    "psr/http-message": "1.0.1",
+    "psr/container": "1.0.0",
+    "pimple/pimple": "v3.2.3",
+    "nikic/fast-route": "v1.3.0",
+    "doctrine/inflector": "v1.3.0",
+    "illuminate/contracts": "5.7.19",
+    "illuminate/container": "5.7.19",
+    "illuminate/database": "5.7.19",
+    "illuminate/support": "5.7.19",
+    "nesbot/carbon": "1.37.1",
+    "symfony/contracts": "v1.1.0",
+    "symfony/polyfill-ctype": "v1.11.0",
+    "symfony/polyfill-mbstring": "v1.11.0",
+    "odan/twig-assets": "2.3.0",
+    "kriswallsmith/buzz": "1.1.0",
+    "nyholm/psr7": "1.2.1",
+    "dopesong/slim-whoops": "^2.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  }
+}
