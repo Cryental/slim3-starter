@@ -1,11 +1,7 @@
 <?php
 
 use Illuminate\Database\Capsule\Manager;
-use PalePurple\RateLimit\Adapter\APCu as APCAdapter;
-use PalePurple\RateLimit\RateLimit;
 use Slim\Views\Twig;
-use Wowe\Recaptcha\Adapters\TwigExtension;
-use Wowe\Recaptcha\Recaptcha;
 use Dopesong\Slim\Error\Whoops as WhoopsError;
 
 /*
