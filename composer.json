@@ -19,7 +19,7 @@
     "symfony/polyfill-mbstring": "v1.11.0",
     "odan/twig-assets": "2.3.0",
     "kriswallsmith/buzz": "1.1.0",
-    "nyholm/psr7": "1.2.1",
+    "nyholm/psr7": "1.6.1",
     "dopesong/slim-whoops": "^2.3"
   },
   "autoload": {
